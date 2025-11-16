@@ -72,7 +72,7 @@ nav a:hover{
     margin-top: 12px;
 }
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:40px;}
-.grid-item{width:100%;transition:0.3s;cursor:pointer;}
+.grid-item{width:100%;transition:0.3s;cursor:pointer;border-radius: 20px;}
 .grid-item:hover{transform:scale(1.05);}
 
 .about-container { /*css do card na pagina SOBRE ate card p*/
